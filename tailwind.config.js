@@ -11,9 +11,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'phnoung-primary': '#8d51ff',
-        'phnoung-dark': '#6f39d2',
-        'phnoung-light': '#a87eff',
+        'milo-dark': '#000',
+        'milo-light': '#fff',
+        'milo-primary': '#ffad55',
+        'milo-primary-dark': '#f97519',
+        'milo-secondary': '#047a5b',
       },
       screens: {
         'lg-mid': { max: '1160px' },
