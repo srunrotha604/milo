@@ -12,7 +12,7 @@
       </div>
     </div>
     <button
-      class="w-full bg-white text-milo-primary-dark py-3 rounded-lg font-bold hover:bg-orange-50 transition-colors"
+      class="w-full bg-white text-milo-primary-dark text-[14px] py-2 rounded-lg font-bold hover:bg-orange-50 transition-colors"
     >
       Resume Session
     </button>

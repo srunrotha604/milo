@@ -20,6 +20,9 @@
     <div>
       <LearningJourney />
     </div>
+    <div>
+      <Streak />
+    </div>
   </div>
   <Chat />
 </template>
