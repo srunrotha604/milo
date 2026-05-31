@@ -1,0 +1,8 @@
+:root {
+  --font-title: 'Lexend', sans-serif;
+  --font-body: 'Noto Sans Khmer', sans-serif;
+  scroll-behavior: smooth;
+}
+body {
+  line-height: 1.8;
+}
