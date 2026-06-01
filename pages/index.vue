@@ -1,5 +1,5 @@
 <template>
-  <div class="p-4 flex flex-col gap-4">
+  <div class="p-4 flex flex-col gap-4 pb-8">
     <div class="">
       <ProfileBlock />
     </div>
@@ -28,6 +28,25 @@
     </div>
     <div>
       <Stats />
+    </div>
+    <div>
+      <Card
+        title="Challenges completed this month"
+        value="0"
+        icon="/milo/trophy.svg"
+        action_title="Complete more challenges"
+      />
+    </div>
+    <div>
+      <Card
+        title="Flashcards completed this month"
+        value="0"
+        icon="/milo/flashcard.svg"
+        action_title="Complete more flashcards"
+      />
+    </div>
+    <div>
+      <FlashCardReview />
     </div>
   </div>
   <Chat />

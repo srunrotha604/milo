@@ -17,7 +17,7 @@
       class="bg-milo-light p-4 rounded-2xl border border-milo-dark/10 text-center shadow-sm"
     >
       <div class="text-blue-500 mb-1 flex justify-center">
-        <i data-lucide="trophy" class="w-5 h-5"></i>
+        <NuxtImg src="/milo/champion.svg" width="25" />
       </div>
       <div class="font-extrabold text-lg text-gray-900">04</div>
       <div

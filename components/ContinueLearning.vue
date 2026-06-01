@@ -1,6 +1,6 @@
 <template>
   <section
-    class="bg-gradient-to-br from-milo-primary-dark to-milo-primary rounded-lg p-4 text-white shadow-lg shadow-orange-200"
+    class="bg-gradient-to-br from-milo-primary-dark to-milo-primary rounded-lg p-4 text-white shadow-lg shadow-milo-primary-dark/20"
   >
     <div class="flex justify-between items-start mb-4">
       <div>
