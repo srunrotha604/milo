@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="max-w-[425px] w-full container mx-auto">
     <NuxtLoadingIndicator />
     <NuxtLayout>
       <NuxtPage />

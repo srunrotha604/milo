@@ -23,6 +23,12 @@
     <div>
       <Streak />
     </div>
+    <div>
+      <Mission />
+    </div>
+    <div>
+      <Stats />
+    </div>
   </div>
   <Chat />
 </template>
